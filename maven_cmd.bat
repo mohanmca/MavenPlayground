@@ -1,0 +1,1 @@
+mvn install -Drevision=1.0-SNAPSHOT -o
